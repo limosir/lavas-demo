@@ -23,7 +23,7 @@ Fast - Respond quickly to user interactions with silky smooth animations and no 
 </template>
 
 <script>
-//测试一下
+//测试
 export default {
     name:"detail-_id",
     metaInfo() {
